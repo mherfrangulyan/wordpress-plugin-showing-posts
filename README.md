@@ -1,4 +1,4 @@
-# wordpress-plugin-showing-posts
+# WordPress Plugin Showing Custom Posts
 Showing Custom Count Posts Plugin
 
 // Intructions

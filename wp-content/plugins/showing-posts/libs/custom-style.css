@@ -1,0 +1,30 @@
+.post-counts label {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 7px;
+    margin-top: 15px;
+    font-weight: 600;
+}
+.shortcode-block span {
+    padding: 10px;
+    background: lightgray;
+    margin: 2px 0;
+    display: inline-block;
+}
+.shortcode-block p {
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+input.post-numbers {
+    max-width: 45px;
+    text-align: center;
+}
+.post-counts button {
+    padding: 7px 20px;
+    margin-left: 15px;
+    background: green;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
